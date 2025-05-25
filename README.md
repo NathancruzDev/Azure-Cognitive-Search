@@ -9,7 +9,7 @@ O Azure Cognitive Search é um serviço de busca em nuvem empresarial que combin
 | **Data Lake Gen2** | Armazena big data em hierarquia | Análise de dados |
 | **Azure Table Storage** | Dados semi-estruturados em tabelas | Logs transacionais |
 
-## 1. Ingestão de Dados
+##  Ingestão de Dados
 
 A primeira etapa no Azure Cognitive Search é a ingestão de dados, onde fontes de dados são conectadas para indexação.
 
@@ -41,7 +41,7 @@ A primeira etapa no Azure Cognitive Search é a ingestão de dados, onde fontes 
 
 ---
 
-## 2. Enriquecimento de IA
+##  Enriquecimento de IA
 
 O enriquecimento de IA aplica habilidades cognitivas para extrair informações valiosas de dados brutos.
 
@@ -69,7 +69,7 @@ Um skillset define um pipeline de processamento que pode incluir:
    - Os metadados permitem buscas avançadas (ex.: "encontrar todos os documentos com menção a 'Microsoft' e sentimento positivo").
 ---
 
-## 3. Indexação e Pesquisa
+##  Indexação e Pesquisa
 
 O índice de busca armazena os dados processados para consultas rápidas.
 
@@ -102,7 +102,7 @@ O índice de busca armazena os dados processados para consultas rápidas.
   -> Observação: Embora poderosa, a utilização de filtros ainda não é muito usual para muitos usuários, exigindo conhecimento sobre a sintaxe e estrutura dos dados.
 ---
 
-## 4. Explorando os Resultados
+##  Explorando os Resultados
 
 Depois da indexação, os dados podem ser consultados e visualizados em aplicações.
 
@@ -130,7 +130,7 @@ Depois da indexação, os dados podem ser consultados e visualizados em aplicaç
 
 ---
 
-## 5. Casos de Uso Comuns
+##  Casos de Uso Comuns
 
 - **E-commerce**  
   Busca por produtos com filtros por cor, preço e avaliações.
